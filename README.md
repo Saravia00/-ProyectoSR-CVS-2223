@@ -49,4 +49,4 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
     ![Captura 13](https://user-images.githubusercontent.com/116157610/214373231-0727136a-a6f4-4c63-b899-742fc9899dbc.PNG)
     *Como podemos ver la transferencia se ha realizado correctamente
 
-
+11. Ahora nos vamos a nuestra máquina ***Debian6-Pruebas*** nos vamos al directorio bind, haremos un ls para ver si se han copiado los ficheros, desde la máquina ***Debian5-Pruebas***, para ello haremos lo siguiente:
