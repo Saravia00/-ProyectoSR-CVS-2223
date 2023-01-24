@@ -1,6 +1,6 @@
 #  Proyecto-DNS
 
-En este proyecto lo qe
+En este proyecto lo que haremos será crear un dominio principal, y a partir de ese dominio, crearemos tres subdominios, con sus correspondientes zonas. 
 
 1. Lo primero que haremos será añadir tres zonas en el siguiente fichero, en nuestro caso, las hemos llamado así:
 
