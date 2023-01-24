@@ -49,4 +49,32 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
     ![Captura 13](https://user-images.githubusercontent.com/116157610/214373231-0727136a-a6f4-4c63-b899-742fc9899dbc.PNG)
     *Como podemos ver la transferencia se ha realizado correctamente
 
-11. Ahora nos vamos a nuestra máquina ***Debian6-Pruebas*** nos vamos al directorio bind, haremos un ls para ver si se han copiado los ficheros, desde la máquina ***Debian5-Pruebas***, para ello haremos lo siguiente:
+11. Comprobaremos que nos funciona, en mi caso he realizado pruebas directas e inversas,etc:
+
+12. Haremos dos reservas, en nuestra máquina ***Debian1-Pruebas***, en nuestro caso hemos elegido las siguientes máquinas con su configuración correspondiente:
+
+    ![Captura 14](https://user-images.githubusercontent.com/116157610/214376449-a9887613-e69a-4768-9acb-fb1e3c4d7f50.PNG)
+
+13. Vamos a empezar con ***Debian2-Pruebas***, en vez de conectarnos por terminator, nos vamos directamente a nuestra máquina, ya que cuando borramos la IP en terminator se desconecta directamente, así que lo primero que haremos será borrar la IP que teníamos, con el siguiente comando:
+
+    ![Captura 15](https://user-images.githubusercontent.com/116157610/214379412-35a43590-adae-42ce-979a-5f50fecf17dd.PNG)
+
+14. Después pediremos la IP con el comando que se muestra a continuación:
+
+    ![Captura 16](https://user-images.githubusercontent.com/116157610/214379628-106b11b5-7f47-4cbe-bc57-f8cdba27d0e5.PNG)
+
+15. Ahora comprobaremos que nos pone la IP deseada, poniendo el siguiente comando:
+
+    ![Captura 17](https://user-images.githubusercontent.com/116157610/214380390-be884670-1d9c-4806-ae6d-ecf4aae291ce.PNG)
+
+16. Una vez realizado los pasos anteriores, ahora lo haremos con ***Debian3-Pruebas***, borramos la IP que teníamos con el siguiente comando:
+    
+    ![Captura 18](https://user-images.githubusercontent.com/116157610/214385098-80270f37-e188-47bf-8002-2bba9c6bfbf4.PNG)
+
+17. Ahora pediremos la IP con el siguiente comando:
+
+    ![Captura 19](https://user-images.githubusercontent.com/116157610/214385208-2f527f03-8377-4f71-b29b-d2a6e9557f6e.PNG)
+
+18. Finalmente comprobaremos que nos pone la IP deseada, con el siguiente comando:
+    ![Captura 20](https://user-images.githubusercontent.com/116157610/214385277-c8168f72-f3cf-4b6c-9cee-055c2a988094.PNG)
+
