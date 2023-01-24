@@ -30,23 +30,23 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 
    ![Captura 8](https://user-images.githubusercontent.com/116157610/214366333-26eecaeb-286f-40a7-a2b2-a33d415c22f3.PNG)
 
-8. Luego modificaremos el siguiente fichero, con la configuración que se muestra a continuación:
+7. Luego modificaremos el siguiente fichero, con la configuración que se muestra a continuación:
 
    ![Captura 9](https://user-images.githubusercontent.com/116157610/214366837-4344f8f1-da84-400f-8248-8fabf4df898e.PNG)
 
-10. Ahora crearemos el siguiente fichero, que le hemos llamado ***iessantarrhh.com***, y hemos añadido lo siguiente:
+8. Ahora crearemos el siguiente fichero, que le hemos llamado ***iessantarrhh.com***, y hemos añadido lo siguiente:
 
     ![Captura 10](https://user-images.githubusercontent.com/116157610/214368047-9b77a782-6b84-46bf-9bc5-3f5ab6a5b978.PNG)
  
-11. A continuacón vamos hacer transferencia de zonas, para ello, tendremos nuestra máquina ***Debian5-Pruebas*** como en ***Debian6-Pruebas***, encendidas, luego reiniciamos el servicio bind9 en ambas máquinas, poniendo el siguiente comando:
+9. A continuacón vamos hacer transferencia de zonas, para ello, tendremos nuestra máquina ***Debian5-Pruebas*** como en ***Debian6-Pruebas***, encendidas, luego reiniciamos el servicio bind9 en ambas máquinas, poniendo el siguiente comando:
 
-    ![Captura 11](https://user-images.githubusercontent.com/116157610/214371024-9d23750f-0999-4ae7-950e-25da0374754f.PNG)
+   ![Captura 11](https://user-images.githubusercontent.com/116157610/214371024-9d23750f-0999-4ae7-950e-25da0374754f.PNG)
     
-    ![Captura 12](https://user-images.githubusercontent.com/116157610/214372317-069d3809-2bd9-4605-9105-17c390932def.PNG)
+   ![Captura 12](https://user-images.githubusercontent.com/116157610/214372317-069d3809-2bd9-4605-9105-17c390932def.PNG)
 
-12. Ahora nos vamos a nuestra máquina ***Debian6-Pruebas*** nos vamos al directorio bind, haremos un ls para ver si se han copiado los ficheros, desde la máquina ***Debian5-Pruebas***, para ello haremos lo siguiente:
+10. Ahora nos vamos a nuestra máquina ***Debian6-Pruebas*** nos vamos al directorio bind, haremos un ls para ver si se han copiado los ficheros, desde la máquina ***Debian5-Pruebas***, para ello haremos lo siguiente:
 
-   ![Captura 13](https://user-images.githubusercontent.com/116157610/214373231-0727136a-a6f4-4c63-b899-742fc9899dbc.PNG)
+    ![Captura 13](https://user-images.githubusercontent.com/116157610/214373231-0727136a-a6f4-4c63-b899-742fc9899dbc.PNG)
     *Como podemos ver la transferencia se ha realizado correctamente
 
 
