@@ -36,7 +36,7 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 
 10. Ahora crearemos el siguiente fichero, que le hemos llamado ***iessantarrhh.com***, y hemos añadido lo siguiente:
 
-    !Captura 10](https://user-images.githubusercontent.com/116157610/214368047-9b77a782-6b84-46bf-9bc5-3f5ab6a5b978.PNG)
+    ![Captura 10](https://user-images.githubusercontent.com/116157610/214368047-9b77a782-6b84-46bf-9bc5-3f5ab6a5b978.PNG)
 
 12. 
 13.  Para que se pueda hacer las tranferencias de zonas tanto en Debian5-Pruebas como en Debian6-Pruebas, hemos reiniciado el servicio bind9 en Debian5-Pruebas y en Debian6-Pruebas
