@@ -25,6 +25,19 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 5. Ahora crearemos el fichero  ***consejeria.com***, y añadiremos la siguiente confiración:
 
    ![Captura 7](https://user-images.githubusercontent.com/116157610/214362619-787e8926-e5d0-4b44-b834-8aaf81744232.PNG)
+   
+6. Una vez ya creado los tres ficheros, lo que haremos será modificar el siguiente fichero, poniendo la siguiente configuración:
 
-6. Cuando ya hayamos creado los tres ficheros, vamos 
+   ![Captura 8](https://user-images.githubusercontent.com/116157610/214366333-26eecaeb-286f-40a7-a2b2-a33d415c22f3.PNG)
+
+8. Luego modificaremos el siguiente fichero, con la configuración que se muestra a continuación:
+
+   ![Captura 9](https://user-images.githubusercontent.com/116157610/214366837-4344f8f1-da84-400f-8248-8fabf4df898e.PNG)
+
+10. Ahora crearemos el siguiente fichero, que le hemos llamado ***iessantarrhh.com***, y hemos añadido lo siguiente:
+
+    !Captura 10](https://user-images.githubusercontent.com/116157610/214368047-9b77a782-6b84-46bf-9bc5-3f5ab6a5b978.PNG)
+
+12. 
+13.  Para que se pueda hacer las tranferencias de zonas tanto en Debian5-Pruebas como en Debian6-Pruebas, hemos reiniciado el servicio bind9 en Debian5-Pruebas y en Debian6-Pruebas
 
