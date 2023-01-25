@@ -26,7 +26,7 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 
    ***Debian6-Pruebas (Ivan)***
    
-2. Despúes hemos creado un fichero, que le hemos llamado  ***iessanta.com***, en él hemos puesto la siguiente configuración: 
+2. Despúes hemos creado un fichero, que va ser nuestro dominio principal, al que le hemos llamado  ***iessanta.com***, en él hemos puesto la siguiente configuración: 
 
    ***Debian5-Pruebas (Sara)***
    
@@ -36,7 +36,7 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 
    ![image](https://user-images.githubusercontent.com/91052724/214508785-250f46eb-d5f2-4bc9-84f2-f5dee9025ad2.png)
 
-3. Una vez creado el fichero ***iessanta.com***, lo que vamos hacer ahora es crear el fichero ***biblioteca.com***, para ello pondremos la siguiente configuración:
+3. Una vez creado el fichero ***iessanta.com***, lo que vamos hacer ahora es crear los subdominios a partir del dominio ***iessanta.com*** al primer fichero le hemos llamado ***biblioteca.com***, y para ello pondremos la siguiente configuración:
    
    ***Debian5-Pruebas (Sara)***
    
@@ -46,7 +46,7 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
    
    ![image](https://user-images.githubusercontent.com/91052724/214519743-2d23e27a-2fd3-4363-8598-75adfe916634.png)
    
-4. Luego crearemos otro fichero ***recreo.com***, y pondremos la siguiente confiración:
+4. Luego crearemos el segundo fichero, que le hemos llamado ***recreo.com***, y pondremos la siguiente configuración:
 
    ***Debian5-Pruebas (Sara)***
 
@@ -56,7 +56,7 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 
    ![image](https://user-images.githubusercontent.com/91052724/214515234-f70a8bb0-b93d-4f5d-814b-9a6ed2d263dd.png)
 
-5. Ahora crearemos el tercer fichero  ***consejeria.com***, y añadiremos la siguiente configuración:
+5. Ahora crearemos el tercer fichero, que le hemos llamado ***consejeria.com***, y añadiremos la siguiente configuración:
 
    ***Debian5-Pruebas (Sara)***
    
@@ -66,7 +66,7 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
    
    ![image](https://user-images.githubusercontent.com/91052724/214515304-121b3764-5b73-451d-9124-e95193c549ae.png)
    
-6. Una vez ya creado los tres ficheros, lo que haremos será modificar el siguiente fichero, poniendo la siguiente configuración:
+6. Una vez ya creado los tres ficheros, lo que haremos será modificar el siguiente fichero, porque ahí es donde tendremos los registros PTR, y la configuración es la siguiente:
 
    ***Debian5-Pruebas (Sara)***
     
