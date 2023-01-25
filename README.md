@@ -147,7 +147,7 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 
     ***Debian6-Pruebas (Iván)***
     
-13. Ahora comprobaremos en mi caso he realizado algunas pruebas tanto  en ***Debian5-Pruebas***, como en ***Debian6-Pruebas***,  para ello haremos lo siguiente:
+13. Ahora comprobaremos en mi caso he realizado algunas pruebas tanto  en ***Debian5-Pruebas***, como en ***Debian6-Pruebas***, para ello haremos lo siguiente:
 
     ***Debian5-Pruebas (Sara)***
      
