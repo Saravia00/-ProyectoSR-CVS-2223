@@ -188,6 +188,7 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 18. Una vez realizado los pasos anteriores, ahora lo haremos con ***Debian3-Pruebas***, borramos la IP que teníamos con el siguiente comando:
 
     ***Debian3-Pruebas (Sara)***
+    
     ![Captura 18](https://user-images.githubusercontent.com/116157610/214385098-80270f37-e188-47bf-8002-2bba9c6bfbf4.PNG)
 
 19. Ahora pediremos la IP con el siguiente comando:
@@ -199,6 +200,7 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 20. Finalmente comprobaremos que nos pone la IP deseada, con el siguiente comando:
 
     ***Debian3-Pruebas (Sara)***
+    
     ![Captura 20](https://user-images.githubusercontent.com/116157610/214385277-c8168f72-f3cf-4b6c-9cee-055c2a988094.PNG)
 
 21. Para acabar, lo que haremos será un commit, para guardar la configuración que hemos realizado, para ello pondremos el siguiente comando:
