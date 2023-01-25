@@ -153,7 +153,7 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
      
     ***Debian6-Pruebas (Sara)***
 
-    *Como podemos ver funciona correctamente.
+    *En nuestro caso, no se porque pero tanto en ***Debian5-Pruebas*** como en ***Debian6-Pruebas***, me
     
     ***Debian5-Pruebas (Iván)***
      
