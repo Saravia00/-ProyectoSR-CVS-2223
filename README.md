@@ -23,26 +23,32 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 3. Una vez creado el fichero ***iessanta.com***, lo que vamos hacer ahora es crear el fichero ***biblioteca.com***, para ello pondremos la siguiente configuración:
    
    ![Captura 5](https://user-images.githubusercontent.com/116157610/214361970-52e15f83-8784-4aac-8ae9-296cd8c43895.PNG)
+   ![image](https://user-images.githubusercontent.com/91052724/214519743-2d23e27a-2fd3-4363-8598-75adfe916634.png)
    
 4. Luego crearemos el fichero ***recreo.com***, y pondremos la siguiente confiración:
 
    ![Captura 6](https://user-images.githubusercontent.com/116157610/214362374-889987c8-6106-4044-9299-d6aa9f980f96.PNG)
+   ![image](https://user-images.githubusercontent.com/91052724/214515234-f70a8bb0-b93d-4f5d-814b-9a6ed2d263dd.png)
 
 5. Ahora crearemos el fichero  ***consejeria.com***, y añadiremos la siguiente confiración:
 
    ![Captura 7](https://user-images.githubusercontent.com/116157610/214362619-787e8926-e5d0-4b44-b834-8aaf81744232.PNG)
+   ![image](https://user-images.githubusercontent.com/91052724/214515304-121b3764-5b73-451d-9124-e95193c549ae.png)
    
 6. Una vez ya creado los tres ficheros, lo que haremos será modificar el siguiente fichero, poniendo la siguiente configuración:
 
    ![Captura 8](https://user-images.githubusercontent.com/116157610/214366333-26eecaeb-286f-40a7-a2b2-a33d415c22f3.PNG)
+   ![image](https://user-images.githubusercontent.com/91052724/214511268-58e5dceb-966a-4a3f-89e5-65fbad90e362.png)
 
 7. Luego modificaremos el siguiente fichero, con la configuración que se muestra a continuación:
 
    ![Captura 9](https://user-images.githubusercontent.com/116157610/214366837-4344f8f1-da84-400f-8248-8fabf4df898e.PNG)
+   ![image](https://user-images.githubusercontent.com/91052724/214511586-f2cc3667-cbc6-405a-96c9-03dec5829134.png)
 
 8. Ahora crearemos el siguiente fichero, que le hemos llamado ***iessantarrhh.com***, y hemos añadido lo siguiente:
 
     ![Captura 10](https://user-images.githubusercontent.com/116157610/214368047-9b77a782-6b84-46bf-9bc5-3f5ab6a5b978.PNG)
+    ![image](https://user-images.githubusercontent.com/91052724/214511763-ebf8505e-e33a-4f75-a3eb-f80c0d5fbd29.png)
  
 9. A continuacón vamos hacer transferencia de zonas, para ello, tendremos nuestra máquina ***Debian5-Pruebas*** como en ***Debian6-Pruebas***, encendidas, luego reiniciamos el servicio bind9 en ambas máquinas, poniendo el siguiente comando:
 
