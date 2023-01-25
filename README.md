@@ -4,48 +4,76 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 
 ![Captura 1](https://user-images.githubusercontent.com/116157610/214312501-7d8f1f62-e481-42b3-9123-1d33f4b4324b.PNG)
 
-1. Lo primero que hemos hecho, ha sido irnos a nuestra máquina ***Debian5-Pruebas***, una vez dentro nos vamos al siguiente fichero y crearemos nuestras zonas, como podemos ver en  ***Debian5-Pruebas*** tanto la  ***Zona directa*** como la ***Zona A*** , ***Zona B*** y la ***Zona inversa***, son masters, ya que ***Debian5-Pruebas***  es la máquina principial para estos dominios, y la ***Zona C*** es esclava, ya que su máquina principal es ***Debian6-Pruebas***.
+1. Lo primero que hemos hecho, ha sido irnos a nuestra máquina ***Debian5-Pruebas***, una vez dentro nos vamos al siguiente fichero y crearemos nuestras zonas, como podemos ver en  ***Debian5-Pruebas*** tanto la  ***Zona directa*** como la ***Zona A*** , ***Zona B*** y la ***Zona inversa***, son masters, ya que ***Debian5-Pruebas***  es la máquina principial para estos dominios, y la ***Zona C*** es esclava, ya que su máquina principal es ***Debian6-Pruebas***, para nuestra máquina ***Debian6-Pruebas***, sería al contrario, ya que la ***Zona C***  sería maestra y las demás zonas esclavas.
 
- ***Debian5-Pruebas Sara***.
+   ***Debian5-Pruebas (Sara)***
 
    ![Captura 2](https://user-images.githubusercontent.com/116157610/214315719-c81c7055-a9ac-43c7-93b1-e6dc5c2b17c6.PNG)
    
    ![Captura 3](https://user-images.githubusercontent.com/116157610/214317706-8a9fc4c8-1c78-41c3-bca8-9b9c11fb0feb.PNG)ç
    
-   ***Debian6-Pruebas Sara***.
+   ***Debian6-Pruebas (Sara)***
    
-   
-   
-   ***Debian5-Pruebas Ivan***.
+   ![Captura 2 2](https://user-images.githubusercontent.com/116157610/214636266-e47c3186-62aa-4c75-8a12-ff642567956b.PNG)
+
+   ![Captura 2 3](https://user-images.githubusercontent.com/116157610/214636795-2293af9d-d88e-4031-bd56-9a2542f042b2.PNG)
+
+   ***Debian5-Pruebas (Ivan)***
 
    ![image](https://user-images.githubusercontent.com/91052724/214507522-85eb5142-9a98-4473-bd98-43745e9fa6f8.png)
    
    ![image](https://user-images.githubusercontent.com/91052724/214507660-f01c4039-3348-4fb3-8e6d-b557ceed4206.png)
 
-
+   ***Debian6-Pruebas (Ivan)***
+   
 2. Despúes hemos creado un fichero, que le hemos llamado  ***iessanta.com***, en él hemos puesto la siguiente configuración: 
 
+   ***Debian5-Pruebas (Sara)***
+   
    ![Captura 4](https://user-images.githubusercontent.com/116157610/214359667-0975370b-8e81-4344-bb22-94f412749d16.PNG)
+   
+   ***Debian5-Pruebas (Ivan)***
+
    ![image](https://user-images.githubusercontent.com/91052724/214508785-250f46eb-d5f2-4bc9-84f2-f5dee9025ad2.png)
 
 3. Una vez creado el fichero ***iessanta.com***, lo que vamos hacer ahora es crear el fichero ***biblioteca.com***, para ello pondremos la siguiente configuración:
    
+   ***Debian5-Pruebas (Sara)***
+   
    ![Captura 5](https://user-images.githubusercontent.com/116157610/214361970-52e15f83-8784-4aac-8ae9-296cd8c43895.PNG)
+   
+   ***Debian5-Pruebas (Ivan)***
+   
    ![image](https://user-images.githubusercontent.com/91052724/214519743-2d23e27a-2fd3-4363-8598-75adfe916634.png)
    
-4. Luego crearemos el fichero ***recreo.com***, y pondremos la siguiente confiración:
+4. Luego crearemos otro fichero ***recreo.com***, y pondremos la siguiente confiración:
+
+   ***Debian5-Pruebas (Sara)***
 
    ![Captura 6](https://user-images.githubusercontent.com/116157610/214362374-889987c8-6106-4044-9299-d6aa9f980f96.PNG)
+   
+   ***Debian5-Pruebas (Ivan)***
+
    ![image](https://user-images.githubusercontent.com/91052724/214515234-f70a8bb0-b93d-4f5d-814b-9a6ed2d263dd.png)
 
-5. Ahora crearemos el fichero  ***consejeria.com***, y añadiremos la siguiente confiración:
+5. Ahora crearemos el tercer fichero  ***consejeria.com***, y añadiremos la siguiente configuración:
 
+   ***Debian5-Pruebas (Sara)***
+   
    ![Captura 7](https://user-images.githubusercontent.com/116157610/214362619-787e8926-e5d0-4b44-b834-8aaf81744232.PNG)
+   
+   ***Debian5-Pruebas (Ivan)***
+   
    ![image](https://user-images.githubusercontent.com/91052724/214515304-121b3764-5b73-451d-9124-e95193c549ae.png)
    
 6. Una vez ya creado los tres ficheros, lo que haremos será modificar el siguiente fichero, poniendo la siguiente configuración:
 
+   ***Debian5-Pruebas (Sara)***
+    
    ![Captura 8](https://user-images.githubusercontent.com/116157610/214366333-26eecaeb-286f-40a7-a2b2-a33d415c22f3.PNG)
+   
+   ***Debian5-Pruebas (Ivan)***
+   
    ![image](https://user-images.githubusercontent.com/91052724/214511268-58e5dceb-966a-4a3f-89e5-65fbad90e362.png)
 
 7. Luego modificaremos el siguiente fichero, con la configuración que se muestra a continuación:
