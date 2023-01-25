@@ -115,7 +115,7 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 ![image](https://user-images.githubusercontent.com/91052724/214706975-948e0562-1029-49aa-a9ad-41c20a9768f5.png)
 
 
-10. Ahora vamos a modificar el siguiente fichero tanto en la máquinas ***Debian5-Pruebas*** como en ***Debian6-Pruebas***, para poder hacer las transferencias de zonas, desde ***Debian5-Pruebas*** a ***Debian6-Pruebas*** para ello hacemos lo siguiente:![Uploading image.png…]()
+10. Ahora vamos a modificar el siguiente fichero tanto en la máquinas ***Debian5-Pruebas*** como en ***Debian6-Pruebas***, para poder hacer las transferencias de zonas, desde ***Debian5-Pruebas*** a ***Debian6-Pruebas*** para ello hacemos lo siguiente:![image](https://user-images.githubusercontent.com/91052724/214707325-6adac72e-a2f9-4c67-a140-1b0c3ae3a746.png)
 
 
     ***Debian5-Pruebas (Sara)***
@@ -127,8 +127,12 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
     ![Captura 24](https://user-images.githubusercontent.com/116157610/214662653-acfdf470-a03b-43d2-b6a4-a0890f43177d.PNG)
 
     ***Debian5-Pruebas (Iván)***
-     
+     ![image](https://user-images.githubusercontent.com/91052724/214707428-953e7472-fed2-4e81-b488-0ff920ab68d9.png)
+
     ***Debian6-Pruebas (Iván)**
+
+![Uploading image.png…]()
+
 
 11. A continuacón vamos hacer las transferencia de zonas, para ello, tendremos nuestra máquina ***Debian5-Pruebas*** como en ***Debian6-Pruebas***, encendidas, luego reiniciamos el servicio bind9 en ambas máquinas, poniendo el siguiente comando:
 
