@@ -127,7 +127,8 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
     ![Captura 24](https://user-images.githubusercontent.com/116157610/214662653-acfdf470-a03b-43d2-b6a4-a0890f43177d.PNG)
 
     ***Debian5-Pruebas (Iván)***
-     ![image](https://user-images.githubusercontent.com/91052724/214707428-953e7472-fed2-4e81-b488-0ff920ab68d9.png)
+
+![image](https://user-images.githubusercontent.com/91052724/214707922-b6aef44e-75a3-473e-b801-63b8d0dc1496.png)
 
     *Debian6-Pruebas (Iván)**
 
