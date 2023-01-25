@@ -152,6 +152,7 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
     ***Debian6-Pruebas (Sara)***
     
     ![Captura 13](https://user-images.githubusercontent.com/116157610/214373231-0727136a-a6f4-4c63-b899-742fc9899dbc.PNG)
+    
     *Como podemos ver la transferencia se ha realizado correctamente.
 
     ***Debian6-Pruebas (Iván)***
@@ -165,6 +166,7 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
     ***Debian6-Pruebas (Sara)***
     
     ![Captura 26](https://user-images.githubusercontent.com/116157610/214709067-d246b5ba-cf67-4219-9e1f-c0e54ef20bd7.PNG)
+    
     *Como podemos ver funciona correctamente.
     
     ***Debian5-Pruebas (Iván)***
