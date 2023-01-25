@@ -169,25 +169,36 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 
 15. Vamos a empezar con ***Debian2-Pruebas***, en vez de conectarnos por terminator, nos vamos directamente a nuestra máquina, ya que cuando borramos la IP en terminator se desconecta directamente, así que lo primero que haremos será borrar la IP que teníamos, con el siguiente comando:
 
+    ***Debian2-Pruebas (Sara)***
+
     ![Captura 15](https://user-images.githubusercontent.com/116157610/214379412-35a43590-adae-42ce-979a-5f50fecf17dd.PNG)
 
 16. Después pediremos la IP con el comando que se muestra a continuación:
 
+    ***Debian2-Pruebas (Sara)***
+    
     ![Captura 16](https://user-images.githubusercontent.com/116157610/214379628-106b11b5-7f47-4cbe-bc57-f8cdba27d0e5.PNG)
 
 17. Ahora comprobaremos que nos pone la IP deseada, poniendo el siguiente comando:
 
+    ***Debian2-Pruebas (Sara)***
+
     ![Captura 17](https://user-images.githubusercontent.com/116157610/214380390-be884670-1d9c-4806-ae6d-ecf4aae291ce.PNG)
 
 18. Una vez realizado los pasos anteriores, ahora lo haremos con ***Debian3-Pruebas***, borramos la IP que teníamos con el siguiente comando:
-    
+
+    ***Debian3-Pruebas (Sara)***
     ![Captura 18](https://user-images.githubusercontent.com/116157610/214385098-80270f37-e188-47bf-8002-2bba9c6bfbf4.PNG)
 
 19. Ahora pediremos la IP con el siguiente comando:
 
+    ***Debian3-Pruebas (Sara)***
+
     ![Captura 19](https://user-images.githubusercontent.com/116157610/214385208-2f527f03-8377-4f71-b29b-d2a6e9557f6e.PNG)
 
 20. Finalmente comprobaremos que nos pone la IP deseada, con el siguiente comando:
+
+    ***Debian3-Pruebas (Sara)***
     ![Captura 20](https://user-images.githubusercontent.com/116157610/214385277-c8168f72-f3cf-4b6c-9cee-055c2a988094.PNG)
 
 21. Para acabar, lo que haremos será un commit, para guardar la configuración que hemos realizado, para ello pondremos el siguiente comando:
