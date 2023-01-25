@@ -108,9 +108,15 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
       
      ***Debian5-Pruebas (Iván)***
      
+     ![image](https://user-images.githubusercontent.com/91052724/214706779-239bbe05-33f1-4923-967c-e3be3dfbff78.png)
+
      ***Debian6-Pruebas (Iván)***
-      
-10. Ahora vamos a modificar el siguiente fichero tanto en la máquinas ***Debian5-Pruebas*** como en ***Debian6-Pruebas***, para poder hacer las transferencias de zonas, desde ***Debian5-Pruebas*** a ***Debian6-Pruebas*** para ello hacemos lo siguiente:
+
+![image](https://user-images.githubusercontent.com/91052724/214706975-948e0562-1029-49aa-a9ad-41c20a9768f5.png)
+
+
+10. Ahora vamos a modificar el siguiente fichero tanto en la máquinas ***Debian5-Pruebas*** como en ***Debian6-Pruebas***, para poder hacer las transferencias de zonas, desde ***Debian5-Pruebas*** a ***Debian6-Pruebas*** para ello hacemos lo siguiente:![Uploading image.png…]()
+
 
     ***Debian5-Pruebas (Sara)***
      
@@ -153,7 +159,7 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
      
     ***Debian6-Pruebas (Sara)***
 
-    *En nuestro caso, no se porque pero tanto en ***Debian5-Pruebas*** como en ***Debian6-Pruebas***, me
+    *Como podemos ver funciona correctamente.
     
     ***Debian5-Pruebas (Iván)***
      
