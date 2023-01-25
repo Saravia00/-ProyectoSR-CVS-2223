@@ -18,6 +18,7 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 2. Despúes hemos creado un fichero, que le hemos llamado  ***iessanta.com***, en él hemos puesto la siguiente configuración: 
 
    ![Captura 4](https://user-images.githubusercontent.com/116157610/214359667-0975370b-8e81-4344-bb22-94f412749d16.PNG)
+   ![image](https://user-images.githubusercontent.com/91052724/214508785-250f46eb-d5f2-4bc9-84f2-f5dee9025ad2.png)
 
 3. Una vez creado el fichero ***iessanta.com***, lo que vamos hacer ahora es crear el fichero ***biblioteca.com***, para ello pondremos la siguiente configuración:
    
