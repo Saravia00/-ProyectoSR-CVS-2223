@@ -112,7 +112,7 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 
      ***Debian6-Pruebas (Iván)***
 
-     ![image](https://user-images.githubusercontent.com/91052724/214706975-948e0562-1029-49aa-a9ad-41c20a9768f5.png)
+![image](https://user-images.githubusercontent.com/91052724/214706975-948e0562-1029-49aa-a9ad-41c20a9768f5.png)
 
 
 10. Ahora vamos a modificar el siguiente fichero tanto en la máquinas ***Debian5-Pruebas*** como en ***Debian6-Pruebas***, para poder hacer las transferencias de zonas, desde ***Debian5-Pruebas*** a ***Debian6-Pruebas*** para ello hacemos lo siguiente:
@@ -127,7 +127,8 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
     ![Captura 24](https://user-images.githubusercontent.com/116157610/214662653-acfdf470-a03b-43d2-b6a4-a0890f43177d.PNG)
 
     ***Debian5-Pruebas (Iván)***
-     ![image](https://user-images.githubusercontent.com/91052724/214707428-953e7472-fed2-4e81-b488-0ff920ab68d9.png)
+
+![image](https://user-images.githubusercontent.com/91052724/214707922-b6aef44e-75a3-473e-b801-63b8d0dc1496.png)
 
     *Debian6-Pruebas (Iván)**
 
@@ -144,42 +145,52 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
    ![Captura 12](https://user-images.githubusercontent.com/116157610/214372317-069d3809-2bd9-4605-9105-17c390932def.PNG)
    
    ***Debian5-Pruebas (Iván)***
-     
+    ![image](https://user-images.githubusercontent.com/91052724/214708090-1b09d381-d599-43bb-932a-7748e89f3635.png)
+
+    
    ***Debian6-Pruebas (Iván)***
+
+![image](https://user-images.githubusercontent.com/91052724/214708139-110a8dec-4d00-45cc-9ce8-07d501041c4f.png)
+
 
 12. Ahora nos vamos a nuestra máquina ***Debian6-Pruebas*** nos vamos al directorio bind, haremos un ***ls*** para ver si se han copiado los ficheros, desde la máquina ***Debian5-Pruebas***, para ello haremos lo siguiente:
 
     ***Debian6-Pruebas (Sara)***
     
     ![Captura 13](https://user-images.githubusercontent.com/116157610/214373231-0727136a-a6f4-4c63-b899-742fc9899dbc.PNG)
-    
     *Como podemos ver la transferencia se ha realizado correctamente.
 
     ***Debian6-Pruebas (Iván)***
-    
+
+![image](https://user-images.githubusercontent.com/91052724/214708277-2aaf853f-d61d-46a2-8501-ff70eaee2bac.png)
+
+
 13. Ahora comprobaremos en mi caso he realizado algunas pruebas tanto  en ***Debian5-Pruebas***, como en ***Debian6-Pruebas***, para ello haremos lo siguiente:
 
     ***Debian5-Pruebas (Sara)***
-    
-    ![Captura 25](https://user-images.githubusercontent.com/116157610/214708920-a7174b0b-7768-4b75-adc8-0f0f48979d91.PNG)
-
+     
     ***Debian6-Pruebas (Sara)***
-    
-    ![Captura 26](https://user-images.githubusercontent.com/116157610/214709067-d246b5ba-cf67-4219-9e1f-c0e54ef20bd7.PNG)
-    
+
     *Como podemos ver funciona correctamente.
     
     ***Debian5-Pruebas (Iván)***
-     
+
+![image](https://user-images.githubusercontent.com/91052724/214708939-21d018fa-01e2-40e3-9650-232ecf84bf09.png)
+
     ***Debian6-Pruebas (Iván)***
 
-14. Haremos dos reservas, en nuestra máquina ***Debian1-Pruebas***, en nuestro caso hemos elegido las siguientes máquinas con su configuración correspondiente:
+![image](https://user-images.githubusercontent.com/91052724/214709220-198916d0-6719-4f6a-9bc5-2347a4c42587.png)
+
+14. Haremos dos reservas, en nuestra máquina ***Debian1-Pruebas*** , en nuestro caso hemos elegido las siguientes máquinas con su configuración correspondiente:
 
     ***Debian1-Pruebas (Sara)***
     
     ![Captura 14](https://user-images.githubusercontent.com/116157610/214376449-a9887613-e69a-4768-9acb-fb1e3c4d7f50.PNG)
 
     ***Debian1-Pruebas (Iván)***
+    
+    ![image](https://user-images.githubusercontent.com/91052724/214710102-16acf91f-9551-442c-93d7-2ce33ac2f497.png)
+
 
 15. Vamos a empezar con ***Debian2-Pruebas***, en vez de conectarnos por terminator, nos vamos directamente a nuestra máquina, ya que cuando borramos la IP en terminator se desconecta directamente, así que lo primero que haremos será borrar la IP que teníamos, con el siguiente comando:
 
@@ -187,17 +198,31 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 
     ![Captura 15](https://user-images.githubusercontent.com/116157610/214379412-35a43590-adae-42ce-979a-5f50fecf17dd.PNG)
 
+ Debian2-Pruebas (Ivan)
+![image](https://user-images.githubusercontent.com/91052724/214710201-450eb21f-484b-4621-b092-2ac3b0ea3563.png)
+
+
 16. Después pediremos la IP con el comando que se muestra a continuación:
 
     ***Debian2-Pruebas (Sara)***
     
     ![Captura 16](https://user-images.githubusercontent.com/116157610/214379628-106b11b5-7f47-4cbe-bc57-f8cdba27d0e5.PNG)
 
+Debian2-Pruebas (Ivan)
+
+![image](https://user-images.githubusercontent.com/91052724/214710503-d7c228a3-6058-4654-8b33-c7c4355dd221.png)
+
+
 17. Ahora comprobaremos que nos pone la IP deseada, poniendo el siguiente comando:
 
     ***Debian2-Pruebas (Sara)***
 
     ![Captura 17](https://user-images.githubusercontent.com/116157610/214380390-be884670-1d9c-4806-ae6d-ecf4aae291ce.PNG)
+
+Debian2-Pruebas (Ivan)
+
+![image](https://user-images.githubusercontent.com/91052724/214710646-7c3dd11f-9408-496c-89b2-f08fb760d601.png)
+
 
 18. Una vez realizado los pasos anteriores, ahora lo haremos con ***Debian3-Pruebas***, borramos la IP que teníamos con el siguiente comando:
 
@@ -218,9 +243,3 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
     ![Captura 20](https://user-images.githubusercontent.com/116157610/214385277-c8168f72-f3cf-4b6c-9cee-055c2a988094.PNG)
 
 21. Para acabar, lo que haremos será un commit, para guardar la configuración que hemos realizado, para ello pondremos el siguiente comando:
-
-    ***Debian5-Pruebas (Sara)***
-    
-    ![Captura 27](https://user-images.githubusercontent.com/116157610/214710178-5c65d238-7cf4-49a9-9cbd-5faa0a66466b.PNG)
-
-
