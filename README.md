@@ -10,6 +10,11 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
    
    ![Captura 3](https://user-images.githubusercontent.com/116157610/214317706-8a9fc4c8-1c78-41c3-bca8-9b9c11fb0feb.PNG)
 
+   ![image](https://user-images.githubusercontent.com/91052724/214507522-85eb5142-9a98-4473-bd98-43745e9fa6f8.png)
+   
+   ![image](https://user-images.githubusercontent.com/91052724/214507660-f01c4039-3348-4fb3-8e6d-b557ceed4206.png)
+
+
 2. Despúes hemos creado un fichero, que le hemos llamado  ***iessanta.com***, en él hemos puesto la siguiente configuración: 
 
    ![Captura 4](https://user-images.githubusercontent.com/116157610/214359667-0975370b-8e81-4344-bb22-94f412749d16.PNG)
