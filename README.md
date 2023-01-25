@@ -6,9 +6,17 @@ En este proyecto lo que haremos será crear un dominio principal, y a partir de 
 
 1. Lo primero que hemos hecho, ha sido irnos a nuestra máquina ***Debian5-Pruebas***, una vez dentro nos vamos al siguiente fichero y crearemos nuestras zonas, como podemos ver en  ***Debian5-Pruebas*** tanto la  ***Zona directa*** como la ***Zona A*** , ***Zona B*** y la ***Zona inversa***, son masters, ya que ***Debian5-Pruebas***  es la máquina principial para estos dominios, y la ***Zona C*** es esclava, ya que su máquina principal es ***Debian6-Pruebas***.
 
+ ***Debian5-Pruebas Sara***.
+
    ![Captura 2](https://user-images.githubusercontent.com/116157610/214315719-c81c7055-a9ac-43c7-93b1-e6dc5c2b17c6.PNG)
    
-   ![Captura 3](https://user-images.githubusercontent.com/116157610/214317706-8a9fc4c8-1c78-41c3-bca8-9b9c11fb0feb.PNG)
+   ![Captura 3](https://user-images.githubusercontent.com/116157610/214317706-8a9fc4c8-1c78-41c3-bca8-9b9c11fb0feb.PNG)ç
+   
+   ***Debian6-Pruebas Sara***.
+   
+   
+   
+   ***Debian5-Pruebas Ivan***.
 
    ![image](https://user-images.githubusercontent.com/91052724/214507522-85eb5142-9a98-4473-bd98-43745e9fa6f8.png)
    
